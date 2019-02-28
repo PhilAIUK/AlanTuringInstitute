@@ -48,8 +48,8 @@ As for the 5 challenges that you are proposing for the April 2019 Data Study Gro
 - Spend Network, Automated matching of business to government contract opportunities: 
   - In my various business experiences, I had to respond to multiple tenders and win contracts. These tenders were in Europe and in the UK (eg. in the Transports and Retail sectors).
   - In the Coursera Machine Learning course, I learnt more about unsupervised/supervised/semi-supervised learning, recommender systems, structured and unstructured data, and text mining (e.g. email spam)
-  - At Worldline, I designed Natural Language Processing tools and worked with our technical teams to implement them in the transport sector (e.g. Chatbot, Alexa skill, Google Home actions)0
-  Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards](http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
+  - At Worldline, I designed Natural Language Processing tools and worked with our technical teams to implement them in the transport sector (e.g. Chatbot, Alexa skill, Google Home actions)
+  - Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards](http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
 
 # **Question 2: What collaborative skills would you bring to the team?**
 
