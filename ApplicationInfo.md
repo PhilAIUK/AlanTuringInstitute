@@ -6,7 +6,7 @@ Then, I progressively moved into product marketing, partnerships, digital and pa
 
 More recently, I started a 12 months career break in order to develop my knowledge in Artificial Intelligence, Machine Learning, and Data Science.
 
-Technical and business experiences summarised in my [LinkedIn Profile] (https://www.linkedin.com/in/philippegillet/)
+Technical and business experiences summarised in my [LinkedIn Profile](https://www.linkedin.com/in/philippegillet/)
 
 Here are the technical expertises I acquired related to this topic, and that I could bring to my team:
 
@@ -16,8 +16,8 @@ Here are the technical expertises I acquired related to this topic, and that I c
    - R Programming (Rstudio) and R Packages for Data Science
    - Note: I am also planning to acquire Python knowledge prior to the Data Study Groups in April
  - Coursera certificate links are:
-   - Module 1: The Data Scientist's ToolBox [certificate link] (https://www.coursera.org/account/accomplishments/verify/VD3CHEZ94TK6)
-   - Module 2: R Programming [certificate link] (https://www.coursera.org/account/accomplishments/certificate/TBBP9TDF4CDM)
+   - Module 1: The Data Scientist's ToolBox [certificate link](https://www.coursera.org/account/accomplishments/verify/VD3CHEZ94TK6)
+   - Module 2: R Programming [certificate link](https://www.coursera.org/account/accomplishments/certificate/TBBP9TDF4CDM)
    - Module 3: Getting and Cleaning Data: course in progress. Will be completed prior to the Data Study Groups.
    - The following modules will be: Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developping Data Products, Data Science Capstone project
 
@@ -31,10 +31,10 @@ Here are the technical expertises I acquired related to this topic, and that I c
    - What makes a machine learning algorithm work or not work (bias and variance, regularization...) 
    - Evaluation metrics (precision recall, F1 score, training, cross-validation and test sets...)
    - Debugging, diagnostics (learning curves, error analysis, ceiling analysis...)
- - Coursera [certificate link] (https://www.coursera.org/account/accomplishments/verify/7R3ZJWXMMCSP)
+ - Coursera [certificate link](https://www.coursera.org/account/accomplishments/verify/7R3ZJWXMMCSP)
 
 3. LinkedIn - Artificial Intelligence Foundations - Thinking Machines (June 2018 - Online videos)
- - LinkedIn [certificate link] (https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines)
+ - LinkedIn [certificate link](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines)
 
 4. Amazon - Machine Learning & Sagemaker (Jan 2018 - 1 day on-site at Amazon London offices)
  - It includes the following technical skills: 
@@ -49,7 +49,7 @@ As for the 5 challenges that you are proposing for the April 2019 Data Study Gro
   - In my various business experiences, I had to respond to multiple tenders and win contracts. These tenders were in Europe and in the UK (eg. in the Transports and Retail sectors).
   - In the Coursera Machine Learning course, I learnt more about unsupervised/supervised/semi-supervised learning, recommender systems, structured and unstructured data, and text mining (e.g. email spam)
   - At Worldline, I designed Natural Language Processing tools and worked with our technical teams to implement them in the transport sector (e.g. Chatbot, Alexa skill, Google Home actions)0
-  Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards] (http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
+  Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards](http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
 
 # **Question 2: What collaborative skills would you bring to the team?**
 
