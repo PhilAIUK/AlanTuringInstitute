@@ -12,25 +12,25 @@ Here are the technical expertises I acquired related to this topic, and that I c
 
 1. Johns Hopkins University - Data Science Specialization Training (From Jan 2019 - 6 months for 10 modules - Coursera)
  - It includes the following technical skills: 
-  - Git, Github
-  - R Programming (Rstudio) and R Packages for Data Science
-  - Note: I am also planning to acquire Python knowledge prior to the Data Study Groups in April
+   - Git, Github
+   - R Programming (Rstudio) and R Packages for Data Science
+   - Note: I am also planning to acquire Python knowledge prior to the Data Study Groups in April
  - Coursera certificate links are:
-  - Module 1: The Data Scientist's ToolBox [certificate link] (https://www.coursera.org/account/accomplishments/verify/VD3CHEZ94TK6)
-  - Module 2: R Programming [certificate link] (https://www.coursera.org/account/accomplishments/certificate/TBBP9TDF4CDM)
-  - Module 3: Getting and Cleaning Data: course in progress. Will be completed prior to the Data Study Groups.
-  - The following modules will be: Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developping Data Products, Data Science Capstone project
+   - Module 1: The Data Scientist's ToolBox [certificate link] (https://www.coursera.org/account/accomplishments/verify/VD3CHEZ94TK6)
+   - Module 2: R Programming [certificate link] (https://www.coursera.org/account/accomplishments/certificate/TBBP9TDF4CDM)
+   - Module 3: Getting and Cleaning Data: course in progress. Will be completed prior to the Data Study Groups.
+   - The following modules will be: Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developping Data Products, Data Science Capstone project
 
 2. Stanford University - Machine Learning Training (Nov 2018 - 12 weeks - Coursera)
  - It includes the following technical skills:
-  - Matlab
-  - Supervised learning algorithms (linear regression, logistic regression, neural networks, SVMs...)
-  - Unsupervised learning (K-means clustering, Principal Components Analysis for dimensionality reduction and Anomaly Detection algorithms...)
-  - Recommender systems and large scale machine learning systems 
-  - Advice on building a machine learning system
-  - What makes a machine learning algorithm work or not work (bias and variance, regularization...) 
-  - Evaluation metrics (precision recall, F1 score, training, cross-validation and test sets...)
-  - Debugging, diagnostics (learning curves, error analysis, ceiling analysis...)
+   - Matlab
+   - Supervised learning algorithms (linear regression, logistic regression, neural networks, SVMs...)
+   - Unsupervised learning (K-means clustering, Principal Components Analysis for dimensionality reduction and Anomaly Detection algorithms...)
+   - Recommender systems and large scale machine learning systems 
+   - Advice on building a machine learning system
+   - What makes a machine learning algorithm work or not work (bias and variance, regularization...) 
+   - Evaluation metrics (precision recall, F1 score, training, cross-validation and test sets...)
+   - Debugging, diagnostics (learning curves, error analysis, ceiling analysis...)
  - Coursera [certificate link] (https://www.coursera.org/account/accomplishments/verify/7R3ZJWXMMCSP)
 
 3. LinkedIn - Artificial Intelligence Foundations - Thinking Machines (June 2018 - Online videos)
@@ -38,7 +38,7 @@ Here are the technical expertises I acquired related to this topic, and that I c
 
 4. Amazon - Machine Learning & Sagemaker (Jan 2018 - 1 day on-site at Amazon London offices)
  - It includes the following technical skills: 
-  - Introduction Amazon SageMaker, a fully-managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. 
+   - Introduction Amazon SageMaker, a fully-managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. 
 
 As for the 5 challenges that you are proposing for the April 2019 Data Study Groups, I have the following additional skills that would be very useful:
 - NATS, Using real-world data to advance air traffic control:
@@ -46,10 +46,10 @@ As for the 5 challenges that you are proposing for the April 2019 Data Study Gro
   - During my engineering programme (in 1993), I did an engineer internship at Thomson CSF company in France. My role was to design a new radar-control system, using fuzzy logic, in order to improve existing systems which determined planes trajectories based on radar plots.
 
 - Spend Network, Automated matching of business to government contract opportunities: 
- - In my various business experiences, I had to respond to multiple tenders and win contracts. These tenders were in Europe and in the UK (eg. in the Transports and Retail sectors).
- - In the Coursera Machine Learning course, I learnt more about unsupervised/supervised/semi-supervised learning, recommender systems, structured and unstructured data, and text mining (e.g. email spam)
- - At Worldline, I designed Natural Language Processing tools and worked with our technical teams to implement them in the transport sector (e.g. Chatbot, Alexa skill, Google Home actions)0
- Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards] (http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
+  - In my various business experiences, I had to respond to multiple tenders and win contracts. These tenders were in Europe and in the UK (eg. in the Transports and Retail sectors).
+  - In the Coursera Machine Learning course, I learnt more about unsupervised/supervised/semi-supervised learning, recommender systems, structured and unstructured data, and text mining (e.g. email spam)
+  - At Worldline, I designed Natural Language Processing tools and worked with our technical teams to implement them in the transport sector (e.g. Chatbot, Alexa skill, Google Home actions)0
+  Our RedSpottedHanky Alexa Skill has been shortlisted as a finalist in the Digital Pioneer category at the [2018 UK Rail Industry Awards] (http://www.railtechnologymagazine.com/ukria/shortlist/2018) 
 
 # **Question 2: What collaborative skills would you bring to the team?**
 
@@ -79,17 +79,17 @@ Here are some examples to demonstrate my experience in working in groups, and ho
 5. Siemens Mobile Phones
  - Prior to launching the first Java-Enabled mobile phone in Europe (Siemens M45), I realised that it was difficult to convince network operators to buy this product with a premium without content (there were no Java application available to download on the phone).
  - I got the idea to set up and launch the first application contest for Java mobile phones. For this, I engaged:
-  - Engineering schools to get their engineers develop java-mobile applications
-  - Initiated a partnership with SUN Microsystems, owner of the Java technology, to help promote the application contest and get funding
-  - Liaised with book editors, to spread the knowledge of Siemens Java APIs
-  - Invited French network operators to be part of the jury to select the best applications
-  - Siemens product team and engineers (based in Munich) to prepare the Software Development Toolkit that will be used by engineers
+   - Engineering schools to get their engineers develop java-mobile applications
+   - Initiated a partnership with SUN Microsystems, owner of the Java technology, to help promote the application contest and get funding
+   - Liaised with book editors, to spread the knowledge of Siemens Java APIs
+   - Invited French network operators to be part of the jury to select the best applications
+   - Siemens product team and engineers (based in Munich) to prepare the Software Development Toolkit that will be used by engineers
  - I worked in collaboration with all these stakeholders presenting my idea as a true win-win initiative:
-  - SUN found the opportunity to educate on the new java-mobile technology much faster
-  - Engineering schools found a way to motivate their students with a real industrial project. Some even created a dedicated elective course for it
-  - Some engineers later created their own startup on java applications, leveraging their experience from that competition
-  - Network operators could clearly see the benefits of enabling application downloads on mobile phones (iPhone did not exist yet)
-  - As for Siemens, it has been a huge success. I secured thousands of sales of the new M45 phones with network operators, got a chapter of a java-mobile book dedicated to Siemens APIs, and worked with Siemens HQ in Munich to deploy similar initiatives worldwide
+   - SUN found the opportunity to educate on the new java-mobile technology much faster
+   - Engineering schools found a way to motivate their students with a real industrial project. Some even created a dedicated elective course for it
+   - Some engineers later created their own startup on java applications, leveraging their experience from that competition
+   - Network operators could clearly see the benefits of enabling application downloads on mobile phones (iPhone did not exist yet)
+   - As for Siemens, it has been a huge success. I secured thousands of sales of the new M45 phones with network operators, got a chapter of a java-mobile book dedicated to Siemens APIs, and worked with Siemens HQ in Munich to deploy similar initiatives worldwide
 
 # **Question 3: What do you hope to personally achieve through your participation in the Data Study Group?**
 
