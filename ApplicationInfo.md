@@ -21,7 +21,7 @@ Here are the technical expertises I acquired related to this topic, and that I c
   - Module 3: Getting and Cleaning Data: course in progress. Will be completed prior to the Data Study Groups.
   - The following modules will be: Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developping Data Products, Data Science Capstone project
 
-2.Stanford University - Machine Learning Training (Nov 2018 - 12 weeks - Coursera)
+2. Stanford University - Machine Learning Training (Nov 2018 - 12 weeks - Coursera)
  - It includes the following technical skills:
   - Matlab
   - Supervised learning algorithms (linear regression, logistic regression, neural networks, SVMs...)
@@ -33,10 +33,10 @@ Here are the technical expertises I acquired related to this topic, and that I c
   - Debugging, diagnostics (learning curves, error analysis, ceiling analysis...)
  - Coursera [certificate link] (https://www.coursera.org/account/accomplishments/verify/7R3ZJWXMMCSP)
 
-3.LinkedIn - Artificial Intelligence Foundations - Thinking Machines (June 2018 - Online videos)
+3. LinkedIn - Artificial Intelligence Foundations - Thinking Machines (June 2018 - Online videos)
  - LinkedIn [certificate link] (https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines)
 
-4.Amazon - Machine Learning & Sagemaker (Jan 2018 - 1 day on-site at Amazon London offices)
+4. Amazon - Machine Learning & Sagemaker (Jan 2018 - 1 day on-site at Amazon London offices)
  - It includes the following technical skills: 
   - Introduction Amazon SageMaker, a fully-managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. 
 
@@ -62,21 +62,21 @@ The Data Study Group team would certainly benefit from having me there for the f
 - My full disponibility and commitment in the project. I have already ensured that I will not have any personal constraints during those 5 days so that it will not impact the team.
 
 Here are some examples to demonstrate my experience in working in groups, and how the teams and myself have mutually benefited from working together:
-1.HEC MBA (16 months)
+1. HEC MBA (16 months)
  - During my MBA, I constantly worked in groups of 4-5 people where we had to solve problems and deliver results within a very short timeframe.
  - Groups were composed of people from various cultures (80% foreigners) and backgrounds (technical, HR, military, public sector, artists, marketing, sales, finance...). On one hand, it added complexity to the interaction. On the other hand, it help each of the participants to bring their own contribution and knowledge to the team.
-2.In most of my career, I worked in matrix-based organisations. This means that I only had few direct reports and always needed to convince senior executives to allocate resources from different teams to my projects.
+2. In most of my career, I worked in matrix-based organisations. This means that I only had few direct reports and always needed to convince senior executives to allocate resources from different teams to my projects.
  - To make it successful, I always identified what the benefits would be for each team members, and ensured everyone was aligned with the objectives and enjoying the journey.
  - As for my direct reports, I always ensured that we built a positive team spirit, met regularly to check progress against objectives, provided advices and coaching, and had fun working together.
-3.Worldline
+3. Worldline
  - Quite often, I had to quickly develop prototypes in order to demonstrate value to clients, and work in teams to make it happen
  - An example is an Alexa Skill proof-of-concept I worked on with Worldline colleagues (based in India and UK) for Cineworld. The team and I were really proud of having designed and implemented a working prototype in only 4 days
  - With the same client, I have also organised a full-day Hackathon where we worked in teams to solve the following challenge: identify how we can help grow the Cineworld Unlimited customer base faster. It is another example where I had to solve problems in a very short time, working in collaboration with known and unknown team members.
-4.American Express
+4. American Express
  - In 2005, I joined American Express to launch, own and grow the British Airways American Express Corporate Card programme.
  - As such, I led the discussions with our partner British Airways related to all product and marketing decisions. I also needed to team up with our marketing, acquisition, finance teams, and external communication agencies.
  - During these 4.5 years, I built a very robust relationship with our partner and teams, based on trust and fun (team-building events, driving some new and innovative marketing campaigns...). This led to the co-brand product being one of the most successful at American Express.
-5.Siemens Mobile Phones
+5. Siemens Mobile Phones
  - Prior to launching the first Java-Enabled mobile phone in Europe (Siemens M45), I realised that it was difficult to convince network operators to buy this product with a premium without content (there were no Java application available to download on the phone).
  - I got the idea to set up and launch the first application contest for Java mobile phones. For this, I engaged:
   - Engineering schools to get their engineers develop java-mobile applications
