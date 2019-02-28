@@ -42,8 +42,8 @@ Here are the technical expertises I acquired related to this topic, and that I c
 
 As for the 5 challenges that you are proposing for the April 2019 Data Study Groups, I have the following additional skills that would be very useful:
 - NATS, Using real-world data to advance air traffic control:
- - I have a passion for aviation and got my PPL Pilot License in 2012
- - During my engineering programme (in 1993), I did an engineer internship at Thomson CSF company in France. My role was to design a new radar-control system, using fuzzy logic, in order to improve existing systems which determined planes trajectories based on radar plots.
+  - I have a passion for aviation and got my PPL Pilot License in 2012
+  - During my engineering programme (in 1993), I did an engineer internship at Thomson CSF company in France. My role was to design a new radar-control system, using fuzzy logic, in order to improve existing systems which determined planes trajectories based on radar plots.
 
 - Spend Network, Automated matching of business to government contract opportunities: 
  - In my various business experiences, I had to respond to multiple tenders and win contracts. These tenders were in Europe and in the UK (eg. in the Transports and Retail sectors).
